@@ -7,10 +7,6 @@ Após os ensinamentos e aprendizados sobre banco de dados, utilizando SQL/DataBa
 # Links e Participação
 
 ![print telainicial](telainicial.png)
-  
-Links
-> [Protótipo](https://www.canva.com/design/DAGSVuVnmig/20ZaWNkxj01ux7hcYh7QMw/edit?utm_content=DAGSVuVnmig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-> [Veja como ficou](https://projeto-inovar-gtmax-2024.onrender.com)
 
 Participações
 > [Lohany Macedo](https://github.com/Lohanyy17)    
@@ -19,3 +15,7 @@ Participações
 > [Isabelly Dias Baptista](https://github.com/IDBaptista)  
 > [Catarine Aparecida Almeida Tomaz](https://github.com/tomazzcatarine)  
 > [Gabrielly Ribeiro de Lima Sena](https://github.com/GabySena)
+
+Links
+> [Protótipo](https://www.canva.com/design/DAGSVuVnmig/20ZaWNkxj01ux7hcYh7QMw/edit?utm_content=DAGSVuVnmig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+> [Veja como ficou](https://projeto-inovar-gtmax-2024.onrender.com)
