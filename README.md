@@ -4,7 +4,9 @@ Um dos primeiros projetos desenvolvidos durante o curso com a utilização do ba
 # Objetivo
 Após os ensinamentos e aprendizados sobre banco de dados, utilizando SQL/DataBase, o professor propôs como atividade a elaboração de um sistema web (site) para um cliente. O sistema deve permitir o cadastro de plataformas e jogos. 
 
-Na parte de cadastro de plataformas, o sistema deve incluir campos para o nome da plataforma, o fabricante e, por fim, gerar automaticamente um código único para cada plataforma. Já no cadastro de jogos, os campos necessários são: Título, Código do Jogo, Plataforma (relacionada ao cadastro anterior) e Gênero. Após os cadastros, o sistema deve gerar uma tabela para que tanto o cliente quanto o fornecedor possam visualizar todas as informações cadastradas de forma organizada e acessível.  
+Na parte de cadastro de plataformas, o sistema deve incluir campos para o nome da plataforma, o fabricante e, por fim, gerar automaticamente um código único para cada plataforma. Já no cadastro de jogos, os campos necessários são: Título, Código do Jogo, Plataforma (relacionada ao cadastro anterior) e Gênero.  
+
+Após os cadastros, o sistema deve gerar uma tabela para que tanto o cliente quanto o fornecedor possam visualizar todas as informações cadastradas de forma organizada e acessível.  
 
 # Links e Participação
 
