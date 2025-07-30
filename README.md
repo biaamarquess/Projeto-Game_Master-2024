@@ -22,4 +22,4 @@ Participações
 
 Links
 > [Protótipo](https://www.canva.com/design/DAGSVuVnmig/20ZaWNkxj01ux7hcYh7QMw/edit?utm_content=DAGSVuVnmig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-> [Veja como ficou](https://projeto-inovar-gtmax-2024.onrender.com)
+> [Veja como ficou]()
